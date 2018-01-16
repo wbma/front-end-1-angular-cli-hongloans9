@@ -1,1 +1,27 @@
 /* You can add global styles to this file, and also import other style files */
+.container{
+    width: 60rem;
+    margin: auto;
+    display: flex;
+    flex-wrap: wrap;
+}
+header{
+    width: 100%;
+    background-color: green;
+}
+nav{
+    width: 100%;
+    background-color: honeydew;
+}
+main{
+    width: 85%;
+    background-color: yellowgreen;
+}
+aside{
+    width: 15%;
+    background-color: rebeccapurple;
+}
+footer{
+    width: 100%;
+    background-color: brown;
+}
